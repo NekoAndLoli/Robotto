@@ -9,4 +9,10 @@ class Reflection{
     float get();
   private:
 };
+
+Reflection::Reflection();
+
+float Reflection::get(){
+	return 0;
+}
 #endif
