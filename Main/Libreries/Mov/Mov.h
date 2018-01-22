@@ -9,5 +9,9 @@ class Mov {
 	void.stop();
   private:
 };
+void Mov::turn();
 
+void Mov::go();
+
+void Mov::stop();
 #endif
