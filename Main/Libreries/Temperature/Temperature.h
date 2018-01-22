@@ -9,4 +9,10 @@ class Temperature {
     float get();
   private:
 };
+
+Temperature::Temperature();
+
+float Temperature::get(){
+	return 0;
+}
 #endif
