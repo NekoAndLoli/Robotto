@@ -1,0 +1,12 @@
+#ifndef RGB_h
+#define RGB_h
+
+#include <Arduino.h>
+
+class RGB {
+  public:
+    RGB();
+    void set();
+  private:
+};
+#endif
