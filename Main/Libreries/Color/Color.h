@@ -9,4 +9,9 @@ class Color {
     float get();
   private:
 };
+
+Cagamattoni::Cagamattoni();
+
+Cagamattoni::caga();
+
 #endif
