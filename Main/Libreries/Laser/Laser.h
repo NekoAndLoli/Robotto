@@ -9,4 +9,10 @@ class Laser {
     float get();
   private:
 };
+
+Laser::Laser();
+
+float Laser::get(){
+	return 0;
+}
 #endif
