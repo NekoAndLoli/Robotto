@@ -9,4 +9,9 @@ class RGB {
     void set();
   private:
 };
+Reflection::Reflection();
+
+float Reflection::get(){
+	return 0;
+}
 #endif
