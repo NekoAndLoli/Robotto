@@ -9,4 +9,9 @@ class Cagamattoni {
     void caga();
   private:
 };
+
+Cagamattoni::Cagamattoni();
+
+Cagamattoni::caga();
+
 #endif
