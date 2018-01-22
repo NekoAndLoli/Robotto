@@ -10,4 +10,7 @@ class Motor {
 	void stop();
   private:
 };
+void Motor::start();
+
+void Motor::stop();
 #endif
